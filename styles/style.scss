@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 100px 150px;
+}
+
+.weather {
+    display: flex;
+    justify-content: center;
+}
+
+.wrapp {
+    font-size: 30px;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+    align-items: center;
+}
+
+img {
+    width: 60px;
+}
+
+body {
+    background: rgb(154, 198, 216);
+}
